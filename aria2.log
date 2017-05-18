@@ -1,0 +1,144 @@
+2017-05-18 13:28:08.917062 [ERROR] [MultiUrlRequestInfo.cc:292] Exception caught
+Exception: [MultiUrlRequestInfo.cc:187] errorCode=1 Specify --rpc-certificate and --rpc-private-key options in order to use secure RPC.
+2017-05-18 13:29:25.138018 [WARN] [DownloadEngineFactory.cc:197] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2017-05-18 13:29:53.042835 [WARN] [DownloadEngineFactory.cc:197] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2017-05-18 13:55:16.918512 [ERROR] [TrackerWatcherCommand.cc:130] Exception caught
+Exception: [DefaultBtAnnounce.cc:294] errorCode=1 Tracker returned failure reason: You already are downloading the same torrent. You may only leech from one location at a time.
+2017-05-18 14:11:45.790543 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Boat.People.1982.PAL.DVD5.ISO, cause: Invalid argument
+2017-05-18 14:11:45.799930 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1064
+2017-05-18 15:09:21.369305 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:09:21.379623 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1318
+2017-05-18 15:11:20.640639 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.647238 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.653432 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.661127 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.703168 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.709052 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.716200 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.722238 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.753818 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.760352 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.772353 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.778166 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:11:20.786246 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:27:51.132561 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:27:51.173777 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1128
+2017-05-18 15:28:37.619604 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.626089 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.632492 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.639167 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.645728 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.652742 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.659444 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:28:37.667016 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:31:51.273011 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:31:51.285287 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1129
+2017-05-18 15:32:29.130885 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:32:29.136757 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:32:29.142546 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:32:29.148565 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:32:29.154257 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:32:29.160528 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:33:31.845369 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:33:32.058473 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1091
+2017-05-18 15:34:09.462481 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:34:09.468958 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:34:09.474820 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:34:09.480898 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:34:09.486666 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 15:34:09.522222 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:24:38.822397 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:24:38.873594 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1063
+2017-05-18 21:25:08.186992 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:25:08.192976 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:25:08.199256 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:25:08.205021 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:25:08.210789 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:25:08.216292 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:25:08.221853 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:33:58.755650 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:33:58.770260 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1318
+2017-05-18 21:34:11.613501 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:34:11.619275 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:34:11.624897 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:34:11.630532 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:34:11.669331 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:34:11.674849 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:12.103290 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:12.113312 [ERROR] [PeerAbstractCommand.cc:107] Download aborted.
+Exception: [BtPieceMessage.cc:274] errorCode=17 Write disk cache flush failure index=1229
+2017-05-18 21:35:45.681532 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:45.687913 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:45.693737 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:45.701634 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:45.708045 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:45.714230 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
+2017-05-18 21:35:45.725412 [ERROR] [WrDiskCacheEntry.cc:81] Error when trying to flush write cache
+Exception: [AbstractDiskWriter.cc:326] errorCode=17 Failed to seek the file /mnt/sda1/aria2downloads/Beauty.And.The.Beast.2017.WEB-DL.1080p.H264.AAC-TJUPT.mp4, cause: Invalid argument
